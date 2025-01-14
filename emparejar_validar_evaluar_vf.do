@@ -1,7 +1,7 @@
-*! title: Example Stata Do-File
-*! author: Alex Brown
+*! title: PSM for program evaluation on job intermediation program
+*! author: Juan Guillermo
 *! date: 2025-01-14
-*! description: This do-file demonstrates metadata extraction for Stata.
+*! description: Performs propensity score matching to evaluate job intermediation program.
 
 
 *
