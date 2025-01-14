@@ -1,3 +1,9 @@
+*! title: Example Stata Do-File
+*! author: Alex Brown
+*! date: 2025-01-14
+*! description: This do-file demonstrates metadata extraction for Stata.
+
+
 *
 *  1. ingesta de datos (tabla personas)
 * 
